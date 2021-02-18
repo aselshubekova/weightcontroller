@@ -1,0 +1,51 @@
+body {
+  background-color: #5EAAA8;
+  margin: 0;
+}
+
+.hello {
+  color: #f8f1f1;
+  text-decoration: none;
+  font-family: 'CORBEL';
+  font-stretch: ultra-condensed;
+  margin: 21.335px 204.665px 21.335px 204.665px;
+}
+
+.hi {
+  margin: 20px 100px 20px 100px;
+}
+
+
+.all {
+  width: 820px;
+  margin: 100px 214.665px 21.335px 214.665px;
+  padding: 0;
+}
+
+.btn {
+  height: 70px;
+  width: 250px;
+  -moz-border-radius:  15px;
+  -webkit-border-radius:  15px;
+  border-radius:  15px;
+  text-decoration: none;
+  font-family: 'CORBEL';
+  font-weight: 900;
+  line-height: 3;
+  background: #A3D2CA;
+  color: #5EAAA8;
+  border: 0;
+}
+
+.start {
+  margin: 0 294.665px 0 281.665px;
+}
+
+.signup {
+  margin-bottom: 30px;
+}
+
+
+div {
+  display: table;
+}

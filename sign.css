@@ -1,0 +1,53 @@
+body {
+  overflow: hidden;
+  background-color: #A3D2CA;
+}
+h2 {
+  color: #43658b;
+  display: inline;
+}
+
+.profile {
+  display: inline;
+}
+
+.nav-link {
+  color: #43658b;
+  text-decoration: none;
+  font-family: 'CORBEL';
+  font-stretch: ultra-condensed;
+  text-align: center;
+}
+
+button {
+  margin-right: 20px
+}
+
+.brand {
+  margin-left: 20px;
+}
+
+label {
+  color: #43658b;
+  text-decoration: none;
+  font-family: 'CORBEL';
+  font-stretch: ultra-condensed;
+}
+
+.reg {
+  text-align: center;
+}
+
+.btn1 {
+  height: 70px;
+  width: 250px;
+  -moz-border-radius:  15px;
+  -webkit-border-radius:  15px;
+  border-radius:  15px;
+  text-decoration: none;
+  font-family: 'CORBEL';
+  font-weight: 900;
+  font-size: 1.2em;
+  background: #5EAAA8;
+  border: 0;
+}

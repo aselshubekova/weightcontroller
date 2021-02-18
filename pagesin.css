@@ -1,0 +1,21 @@
+body {
+  overflow: hidden;
+  background-color: #A3D2CA;
+}
+h2 {
+  color: #43658b;
+  display: inline;
+}
+
+.profile {
+  display: inline;
+}
+
+
+button {
+  margin-right: 20px
+}
+
+.brand {
+  margin-left: 20px;
+}
